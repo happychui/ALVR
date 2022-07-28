@@ -1,3 +1,4 @@
+mod bitrate;
 mod buttons;
 mod connection;
 mod connection_utils;
